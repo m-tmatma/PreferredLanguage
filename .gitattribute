@@ -1,0 +1,4 @@
+*.vcproj    text eol=crlf
+*.sln.        text eol=crlf
+*.cs          text eol=lf
+
